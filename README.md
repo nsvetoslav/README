@@ -1,5 +1,5 @@
 ## Hi, im Svetlyo
 
-- 🌍 I'm a software developer who works on planet earth.
+- 🌍 Kinda trash dev ngl.
 
 - 🈯 Languages - C/C++, Python, F#.
