@@ -1,4 +1,3 @@
 ## Hi, im Svetlyo
 
-- Kinda trash dev ngl.
-- Languages - C/C++, C#, Python, lua, and a little bit of ASM.
+- Languages - C++, C#, Python, lua, typescript & javascript, and most of the times -> ANSI C & ASM. -_-
